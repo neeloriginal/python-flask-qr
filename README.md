@@ -53,7 +53,7 @@ Step 2: Activate Virtual Environment
 Step 3: Install Dependencies
 pip install flask
 pip install qrcode
-
+pip install pillow
 ---
 
 Run the Application
